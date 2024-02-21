@@ -1,0 +1,6 @@
+print(10 + 3)
+print(20 * 3)
+print(20 // 3)
+print(20 % 7)
+print(20 / 3)
+print(20 ** 3)
